@@ -1,7 +1,7 @@
 {
     "name": "AbtPiano",
     "version": "0.0.1",
-    "description": "SparkFun gator:light Temperature Sensor",
+    "description": "SparkFun Piano Temperature Sensor",
     "license": "MIT",
     "dependencies": {
         "core": "*",
