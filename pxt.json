@@ -1,0 +1,20 @@
+{
+    "name": "AbtPiano",
+    "version": "0.0.1",
+    "description": "SparkFun gator:light Temperature Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "AbtPiano.ts",
+        "AbtPiano.cpp",
+        "shims.d.ts",
+        "enums.d.ts",
+        "_locales/ja/fruitpiano-strings.json"
+    ],
+    "testFiles": [],
+    "public": true
+}
